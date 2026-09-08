@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href=math.fau.de/algebra-und-geometrie/thomascreutzig/> FAU
+subtitle: "<a href='https://math.fau.de/algebra-und-geometrie/thomascreutzig/'>FAU</a>"
 
 profile:
   align: right
